@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "yfrontdev mern app",
+  "mongoUri": "mongodb+srv://admin:123456Q@cluster0-8znd9.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
